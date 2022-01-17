@@ -1,0 +1,4 @@
+{
+    "defaultComandTimeout": 5000,
+    "trashAssetsBeforeRuns": false
+}
